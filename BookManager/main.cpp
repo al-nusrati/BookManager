@@ -24,7 +24,7 @@ private:
     string title;
     string isbn;
     double price;
-    Author* author;
+    Author* author;     
 public:
     Book(const string& title, const string& isbn, double price, Author* author)
         : title(title), isbn(isbn), price(price), author(author) {}
