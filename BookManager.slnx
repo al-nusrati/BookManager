@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="BookManager/BookManager.vcxproj" />
+  <Project Path="BookManager/BookManager.vcxproj" Id="90b135cd-0ec4-4d06-b2a6-9726fdb73047" />
 </Solution>
