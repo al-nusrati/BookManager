@@ -58,7 +58,7 @@ int main() {
 
     cout << "\nAfter deleting second book:\n";
     for (int i = 0; i < 3; ++i) {
-        if (books[i]) books[i] -> display();        // <-- 
+        books[i] -> display();        // <-- 
 		cout << "\n";
     }
 
